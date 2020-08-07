@@ -37,3 +37,5 @@ target/
 .settings/org.eclipse.jdt.core.prefs
 .classpath
 .vscode/settings.json
+/.vscode
+/.settings
